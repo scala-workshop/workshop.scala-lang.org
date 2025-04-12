@@ -1,4 +1,4 @@
-[submodule "assets/branding-assets"]
-	path = assets/branding-assets
-	url = git@github.com:scala-workshop/branding-assets.git
+[submodule "brand-assets"]
+	path = brand-assets
+	url = git@github.com:scala-workshop/brand-assets.git
 	branch = main
