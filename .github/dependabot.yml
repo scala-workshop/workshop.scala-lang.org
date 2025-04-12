@@ -11,3 +11,9 @@ updates:
     directory: /
     schedule:
       interval: weekly
+
+  # Enable version updates for Git Submodules
+  - package-ecosystem: gitsubmodule
+    directory: /
+    schedule:
+      interval: daily
