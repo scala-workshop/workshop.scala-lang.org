@@ -33,4 +33,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - assets/branding-assets/README.md
+  - brand-assets/README.md
