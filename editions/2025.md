@@ -1,0 +1,3 @@
+---
+redirect_to: https://2025.workshop.scala-lang.org
+---
