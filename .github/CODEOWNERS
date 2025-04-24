@@ -1,2 +1,4 @@
-# Admins Inherit All Permissions
-* @scala-workshop/admins
+.github/CODEOWNERS       @scala-workshop/admins
+
+.well-known/atproto-did  @scala-workshop/admins
+.well-known/security.txt @scala-workshop/security
