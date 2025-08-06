@@ -2,3 +2,4 @@
 
 .well-known/atproto-did  @scala-workshop/admins
 .well-known/security.txt @scala-workshop/security
+security.md              @scala-workshop/security
