@@ -1,3 +1,3 @@
 ---
-redirect_to: https://2025.workshop.scala-lang.org
+redirect_to: https://2026.workshop.scala-lang.org
 ---
