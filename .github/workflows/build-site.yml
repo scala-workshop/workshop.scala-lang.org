@@ -21,7 +21,7 @@ jobs:
           bundler-cache: true
           cache-version: 0
       - name: Setup GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Build Website with Jekyll
         uses: actions/jekyll-build-pages@v1
       - name: Upload Website to GitHub Artifacts
